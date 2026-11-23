@@ -7,6 +7,7 @@ steam-haptics-singer
 *.m4a
 range
 steam-haptics-player
+steam-haptics-sink
 measure
 
 ReverseEngineering/hmm
